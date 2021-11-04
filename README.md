@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-- 👋 Hi, I’m Jm-Zion
+- 👋 Hi, I’m J3j3m
 - 🔭 I’m currently working on React-Native and flutter projects
 - 🌱 I’m currently learning Golang
 
@@ -14,7 +14,7 @@ Technical Stack ⚡
 Reach me throught 📫 
 ---
 
-![Gmail - jeremy.barbe.zion@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail - jeremy@winzana.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
