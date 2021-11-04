@@ -19,7 +19,11 @@ Reach me throught 📫
 
 ---
 
+
 [![J3j3m GitHub stats](https://github-readme-stats.vercel.app/api?username=J3j3m&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3j3m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
